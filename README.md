@@ -1,4 +1,4 @@
-# SPAM-MAIL-PREDICCTION: 
+# SPAM-MAIL-PREDICTION: 
 
 This project focuses on building an accurate spam detection model that can classify emails as **spam** or **ham (not spam)** . It leverages a Logistic Regression classifier trained on a real-world dataset of email messages.
 
